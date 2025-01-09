@@ -1,2 +1,2 @@
-# Aryan1st
-this is my github repository
+# AryanCode
+This is my first Github repository.
